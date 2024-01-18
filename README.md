@@ -8,7 +8,7 @@ If you want to deploy with SSR enabled on nodejs server:
     npm run build
     *after run this command in terminal added .output folder in main project directory.
     
-3.go to cpannel > setup node.js app and create new app sample bellow:
+3.go to cpanel > setup node.js app and create new app sample bellow:
 
     Application root: app
     Application URL: / 
@@ -25,7 +25,7 @@ If you want to deploy with SSR enabled on nodejs server:
 
 5.then compress .output folder and upload in cpanel app folder and extract it.
 
-6.go to cpannel > setup node.js app and click start app button
+6.go to cpanel > setup node.js app and click start app button
 
 7. run your domain(Application URL) in the browser
 
