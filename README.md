@@ -16,7 +16,8 @@ If you want to deploy with SSR enabled on nodejs server:
     and in end of press create button.
     after some minute app created successfully.
 
-![Uploading image.png…]()
+![Untitled](https://github.com/farzadj248/deploy-nuxt-3-app-to-nodejs-server/assets/55263969/ae92c314-5a4b-40d2-97d2-e984de71a6f1)
+
 
 4.go to cpanel File Manager > app folder and edit app.js or sample.js.
   add this code : import('./.output/server/index.mjs');
